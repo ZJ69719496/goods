@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-goods1 [goods1](/goods1.html).
+goods1 [goods1](/goods1.md).
 goods2 [goods2](/goods2.html).
 goods3 [goods3](/goods3.html).
 goods4 [goods4](/goods4.html).
